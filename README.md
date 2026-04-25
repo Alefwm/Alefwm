@@ -1,9 +1,9 @@
-## Alef William
+## Alefwm
 <h1 align="left">Olá, tudo bem? 👋</h1>
 
 ###
 
-<p align="left">Eu sou o Alef! 
+<p align="left">Eu sou o Alef William! 
 Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do Desenvolvimento de Sistemas. Acredito que a programação é uma ferramenta poderosa para resolver problemas reais e estou dedicado a aprender as melhores práticas do mercado.</p>
 
 ###
@@ -46,4 +46,12 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo css3"  />
 </div>
 
+
+
 ###
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefwm&layout=compact&theme=dracula)
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Alefwm&show_icons=true&theme=dracula)
+
+###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alef-william-a2a655320/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Alefwilliammf2000@gmail.com)
