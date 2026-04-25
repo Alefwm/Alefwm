@@ -1,41 +1,48 @@
-
 ## Alef William
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, tudo bem? 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Eu sou o Alef! 
+Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do Desenvolvimento de Sistemas. Acredito que a programação é uma ferramenta poderosa para resolver problemas reais e estou dedicado a aprender as melhores práticas do mercado.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🛠 No que estou trabalhando</h2>
+
+- 📖 Estudando os fundamentos de **Python, Java e SQL**.
+- 💻 Desenvolvendo projetos com **Django** e estruturando páginas com **HTML/CSS**.
+- ✍️ Aprendendo sobre controle de versão com **Git e GitHub**.
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">Sobre mim</h2>
+
+<p align="left">
+✨ Criando bugs desde 2024 <br>
+📚 Atualmente aprendendo: Python e Java <br>
+🎯 Objetivo: Me tornar um Desenvolvedor Full Stack <br>
+🎲 Curiosidade: Apaixonado por café e novas tecnologias
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que utilizo</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="logo django"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo java"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo sql"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo html5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo css3"  />
 </div>
 
 ###
