@@ -20,7 +20,7 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
 
 <p align="left">
 ✨ Criando bugs desde 2024 <br>
-📚 Atualmente aprendendo: Python e Java <br>
+📚 Atualmente aprendendo: python + django para projetos web ( incluindo html e css ) <br>
 🎯 Objetivo: Me tornar um Desenvolvedor Full Stack <br>
 🎲 Curiosidade: Apaixonado por café e novas tecnologias
 </p>
