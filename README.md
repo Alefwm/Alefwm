@@ -13,6 +13,7 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
 - 📖 Estudando os fundamentos de **Python, Java e SQL**.
 - 💻 Desenvolvendo projetos com **Django** e estruturando páginas com **HTML/CSS**.
 - ✍️ Aprendendo sobre controle de versão com **Git e GitHub**.
+- 📖 Cursando " Anallise e desenvolvimento de sistemas " universidade potiguar (UNP)
 
 ###
 
