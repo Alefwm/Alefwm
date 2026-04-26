@@ -46,19 +46,7 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo css3"  />
 </div>
 
-name: Recent Activity
-on:
-  push:
-  schedule:
-    - cron: '0 * * * *' # Atualiza de hora em hora
-jobs:
-  update-activity:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ###
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefwm&layout=compact&theme=dracula)
