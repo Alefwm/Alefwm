@@ -46,7 +46,8 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo css3"  />
 </div>
 
-
+### 📈 Minha Atividade de Commits
+![Gráfico de Atividade](https://vercel.app)
 
 ###
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefwm&layout=compact&theme=dracula)
