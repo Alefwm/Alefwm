@@ -49,10 +49,23 @@ Sou um entusiasta da tecnologia e estou dando meus primeiros passos no mundo do 
 </div>
 
 
+<h2 align="left">🚀 Principais Projetos</h2>
 
-###
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alefwm&layout=compact&theme=dracula)
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Alefwm&show_icons=true&theme=dracula)
+- **[Leitor Bíblico Java](https://github.com/Alefwm)**: Sistema desktop desenvolvido em Java Swing com navegação dinâmica por livros e capítulos.
+- **[Práticas Web](https://github.com/Alefwm)**: Estruturação de layouts modernos utilizando HTML5, CSS3 e introdução a JavaScript.
+
+- <h2 align="left">📊 Estatísticas de Contribuição</h2>
+##
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alefwm&theme=dracula" alt="GitHub Streak" />
+</p>
+
+
+
+
+
+<h2 align="left">📫 Conecte-se comigo</h2>
+
 
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alef-william-a2a655320/)
